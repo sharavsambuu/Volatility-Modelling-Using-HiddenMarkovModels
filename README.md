@@ -14,4 +14,4 @@ I have modelled the volatility regime intraday (1D Candles) of Gold Prices (obta
 All data and notebooks are provided.
 
 **Here is what the model outputs for the last circa 500 days of Gold price movement. As you can see highlighted in red are the clusters of high volatility.**
-![Here you can see the clusters of volatility ](https://github.com/sweg44/Volatility-Modelling-Using-HiddenMarkovModels/blob/main/gold_volatility.jepg)
+![Here you can see the clusters of volatility ](https://github.com/sweg44/Volatility-Modelling-Using-HiddenMarkovModels/blob/main/gold_volatility.jpeg)
